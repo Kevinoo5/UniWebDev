@@ -1,2 +1,2 @@
 # UniWebDev
-Repository for Web Application Development related files
+Repository for Web Application Development related files.
